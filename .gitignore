@@ -1,0 +1,12 @@
+# Virtual environment directory
+venv/
+
+# Environment variables & secrets
+.env
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Local FAISS vector index database
+faiss_lab_index/
